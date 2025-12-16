@@ -1,5 +1,6 @@
-# Alzheimer’s and Healthy Aging (BRFSS)
-**Contributors:** Lily Gates, Nainika Kadabha, Theodore Rose, Andre Soriano, Anna Wendt
+# Alzheimer’s and Healthy Aging (BRFSS) SQL Database
+
+**Contributors:** _**Lily Gates**_, Nainika Kadabha, Theodore Rose, Andre Soriano, Anna Wendt
 
 
 ## Project Overview
